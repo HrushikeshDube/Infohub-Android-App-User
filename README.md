@@ -25,7 +25,5 @@ The Student Portal Application provides a user-friendly platform for students to
 - **Notice Section**: Access daily notices from the administration.
 - **Announcement Section**: View daily announcements from the department or college.
 
-## Contributing
 
-We welcome contributions from the community! Feel free to open issues or submit pull requests to improve the application.
 
